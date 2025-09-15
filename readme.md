@@ -35,9 +35,38 @@
 ---
 
 ## 🛠️ Tech Stack
+<h3 align="center">🚀 Tech Stack</h3>
+
+<!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,c,cpp,git,github,docker,aws,firebase,figma&perline=8" />
+  <b>Frontend:</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&perline=6" />
 </p>
+
+<!-- Backend -->
+<p align="center">
+  <b>Backend:</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <b>Databases:</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=6" />
+</p>
+
+<!-- Programming Languages -->
+<p align="center">
+  <b>Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp&perline=6" />
+</p>
+
+<!-- Tools & DevOps -->
+<p align="center">
+  <b>Tools & DevOps:</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws&perline=6" />
+</p>
+
 
 ---
 
