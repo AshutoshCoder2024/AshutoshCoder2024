@@ -50,8 +50,9 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshcoder2024&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=radical&hide_border=true" alt="ashutoshcoder2024" />
 </p>
+
 
 ---
 
