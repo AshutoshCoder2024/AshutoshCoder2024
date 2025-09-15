@@ -37,35 +37,46 @@
 ## 🛠️ Tech Stack
 <h3 align="center">🚀 Tech Stack</h3>
 
-<!-- Frontend -->
-<p align="center">
-  <b>Frontend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&perline=6" />
-</p>
+<table align="center">
+  <tr>
+    <!-- Frontend -->
+    <td align="center">
+      <b>Frontend</b><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&perline=6" />
+    </td>
 
-<!-- Backend -->
-<p align="center">
-  <b>Backend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
-</p>
+    <!-- Backend -->
+    <td align="center">
+      <b>Backend</b><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+    </td>
+  </tr>
+  <tr><td colspan="2">&nbsp;</td></tr> <!-- spacing -->
 
-<!-- Databases -->
-<p align="center">
-  <b>Databases:</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=6" />
-</p>
+  <tr>
+    <!-- Databases -->
+    <td align="center">
+      <b>Databases</b><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=6" />
+    </td>
 
-<!-- Programming Languages -->
-<p align="center">
-  <b>Languages:</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp&perline=6" />
-</p>
+    <!-- Languages -->
+    <td align="center">
+      <b>Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp&perline=6" />
+    </td>
+  </tr>
+  <tr><td colspan="2">&nbsp;</td></tr> <!-- spacing -->
 
-<!-- Tools & DevOps -->
-<p align="center">
-  <b>Tools & DevOps:</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws&perline=6" />
-</p>
+  <tr>
+    <!-- Tools & DevOps -->
+    <td align="center" colspan="2">
+      <b>Tools & DevOps</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws&perline=6" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
