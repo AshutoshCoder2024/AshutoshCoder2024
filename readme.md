@@ -6,9 +6,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Cloud & DevOps**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, C++**
-- ⚡ Passion: Solving problems & building impactful projects  
+- 🚀 MERN Stack Developer passionate about building full-stack web apps**
+- 💡 Skilled in React, Node.js, Express, MongoDB, and C++**
+- 🌱 🌱 Currently improving DSA**
+- 🤝 Love collaborating on open-source and team projects**
+- ⚡ Fun fact: I enjoy solving coding problems & turning ideas into reality**
+ 
 
 ---
 
@@ -51,7 +54,7 @@
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutoshcoder2024/ashutoshcoder2024/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=react-dark&hide_border=true" alt="contribution graph" />
 </p>
 
 ---
