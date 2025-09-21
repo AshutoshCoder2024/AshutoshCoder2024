@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<p align="center gap-10">
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
