@@ -25,10 +25,10 @@
 
 ---
 
-## 📈 GitHub Stats (Dark Aesthetic)
+## 📈 GitHub Stats (Better Dark Theme)
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="Ashutosh's GitHub Stats"/> 
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
 </p>
@@ -49,9 +49,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me (Enhanced)
 
 <p align="center"> 
+  <a href="[Your Portfolio Website URL]"> 
+    <img src="https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="Portfolio"/> 
+  </a>
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331"> 
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> 
   </a> 
@@ -65,12 +68,19 @@
 
 ---
 
-## 🏆 Profile Badges
+## 🏆 Profile Badges (Enhanced)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/> 
+  
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3Zy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDBDMTE0Ljg1NyAwIDAgMTE0Ljg1NyAwIDI1NnMxMTQuODU3IDI1NiAyNTYgMjU2IDI1Ni0xMTQuODU3IDI1Ni0yNTZTNDExLjE0MyAwIDI1NiAweiIvPjxwYXRoIGZpbGw9IiNGRjY2MDAiIGQ9Ik0zMzcuNzUgMjg2Ljg3NWMtLjUxMiAxLjAzMi0xLjQxNyAyLjMyMy0yLjQ1MiAzLjI0NS0xLjIxMiAxLjExMS0yLjc0NiAyLjEyNi00LjI5NSAzLjA0OC0xNC40MDkgOC4xOTQtMzAuNzk3IDE0LjA3Ni00OC4wNjggMTcuMzM0LTUuNTI5IDMuNjktMTEuNjA5IDYuMTA0LTE4LjAxNyA3Ljc4NS0uMTA5LjIyNi0uMjIzLjQ0NS0uMzQxLjY1OC02LjU5IDEuMDQxLTEyLjQxIDIuMzcyLTE3LjUyOSAzLjg4Ni03Ljk2MyAyLjMyMi0xNi41NjEgMy42NDYtMjUuNDczIDMuNjg0LTIuMTg3LjAwOS00LjM4Ni4wMTItNi41NjguMDEyLTI2LjcwMSAwLTUwLjc3MS02Ljg1OC03My4yMTktMTkuNDUtMTkuMDYzLTEwL43NDktMzQuMjMzLTI1LjA2NC00NS41NDYtNDIuMzY0LTExLjkwMS0xNy41MjQtMTcuODk2LTM3LjEwOC0xNy45MzctNTcuMTMtLjAyMi0xMS4zNzUgMS44MTUtMjIuNjczIDUuMzY5LTMzLjQ4NiAyLjY0Ny03Ljk1NiA1Ljk0LTE1LjY4IDEwLjA5Ni0yMi45NDIgMTIuMzQtMjEuMjQzIDMwLjQ1My0zOC4wNTQgNTAuOTYtNTAuNjAxIDIwLjk2OC0xMy4zMzEgNDMuOTM4LTIwLjAwMSA2Ny45MjMtMTkuOTgyIDExLjc5OC4wMDcgMjMuNTk2LjA4NCAzNS4zMjUgLjQ5OSAxNi41MzIuNTczIDMyLMy4xMTggNDYuNzggNy4zMzcgMjMuNzY1IDYuOTU4IDQ1LjU5MSAxOC4wNjggNjQuMjMgMzMuMTUzIDE0LjI3NSAxMS43MjQgMjUuMzggMjUuNzE2IDMyLjY2NyA0MS42NTkgMy43NjkgOC41NDIgNi4wODggMTcuNTI1IDcuMzA5IDI2LjY2MS43MTQgMi41My4xNjUgNS4zODUtLjM2NSA4LjE3Ni0uNzc5IDQuMDI0LTEuNTk3IDguMDYyLTIuNDI5IDEyLjAxMi0zLjQ0MiA0Ljg2Mi02LjE3MSA5LjIyMy03LjUxOCAxNC4xMzYtLjc0OCAyLjU0Mi0xLjQ1NyA1LjEwMi0yLjE0NyA3LjY2NnoiLz48L3N2Zz4="/>
+  
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" alt="Open Source Contributor"/> 
+  
   <img src="https://img.shields.io/badge/MERN%20Developer-Full%20Stack-orange?style=for-the-badge" alt="MERN Developer"/> 
+  
+  <img src="https://wakatime.com/badge/user/ashutoshcoder2024/total.svg?style=for-the-badge&theme=dark" alt="WakaTime Coding Time"/>
+
 </p>
 
 <br>
