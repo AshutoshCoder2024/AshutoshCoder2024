@@ -35,10 +35,10 @@
 
 ---
 
-## 📈 GitHub Stats (Fully Dark Aesthetic)
+## 📈 GitHub Stats (Dark Aesthetic)
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="Ashutosh's GitHub Stats"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
 </p>
@@ -51,10 +51,10 @@
 
 
 
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
 </p>
-
 ---
 
 ## 🌐 Connect With Me (Enhanced)
