@@ -25,7 +25,27 @@
 
 ---
 
-## 📈 GitHub Stats (Better Dark Theme)
+## 🚀 Projects (MERN & Full-Stack)
+
+* ### [Project Name 1] - [Brief one-sentence description of the project]
+    > **Built With:** React, Node.js, Express, MongoDB, Redux.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+* ### [Project Name 2] - [Brief one-sentence description of the project]
+    > **Built With:** Next.js, FastAPI, MySQL, Tailwind CSS.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+* ### [Project Name 3] - [Brief one-sentence description of the project]
+    > **Built With:** Python, C++, Docker.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+
+<p align="center">
+  <a href="[Link to your main projects repository or portfolio]">
+    <img src="https://img.shields.io/badge/More%20Projects%20%E2%86%92-blue?style=for-the-badge" alt="More Projects Badge"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats (Fully Dark Aesthetic)
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="Ashutosh's GitHub Stats"/> 
@@ -73,7 +93,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/> 
   
-  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3Zy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDBDMTE0Ljg1NyAwIDAgMTE0Ljg1NyAwIDI1NnMxMTQuODU3IDI1NiAyNTYgMjU2IDI1Ni0xMTQuODU3IDI1Ni0yNTZTNDExLjE0MyAwIDI1NiAweiIvPjxwYXRoIGZpbGw9IiNGRjY2MDAiIGQ9Ik0zMzcuNzUgMjg2Ljg3NWMtLjUxMiAxLjAzMi0xLjQxNyAyLjMyMy0yLjQ1MiAzLjI0NS0xLjIxMiAxLjExMS0yLjc0NiAyLjEyNi00LjI5NSAzLjA0OC0xNC40MDkgOC4xOTQtMzAuNzk3IDE0LjA3Ni00OC4wNjggMTcuMzM0LTUuNTI5IDMuNjktMTEuNjA5IDYuMTA0LTE4LjAxNyA3Ljc4NS0uMTA5LjIyNi0uMjIzLjQ0NS0uMzQxLjY1OC02LjU5IDEuMDQxLTEyLjQxIDIuMzcyLTE3LjUyOSAzLjg4Ni03Ljk2MyAyLjMyMi0xNi41NjEgMy42NDYtMjUuNDczIDMuNjg0LTIuMTg3LjAwOS00LjM4Ni4wMTItNi41NjguMDEyLTI2LjcwMSAwLTUwLjc3MS02Ljg1OC03My4yMTktMTkuNDUtMTkuMDYzLTEwL43NDktMzQuMjMzLTI1LjA2NC00NS41NDYtNDIuMzY0LTExLjkwMS0xNy41MjQtMTcuODk2LTM3LjEwOC0xNy45MzctNTcuMTMtLjAyMi0xMS4zNzUgMS44MTUtMjIuNjczIDUuMzY5LTMzLjQ4NiAyLjY0Ny03Ljk1NiA1Ljk0LTE1LjY4IDEwLjA5Ni0yMi45NDIgMTIuMzQtMjEuMjQzIDMwLjQ1My0zOC4wNTQgNTAuOTYtNTAuNjAxIDIwLjk2OC0xMy4zMzEgNDMuOTM4LTIwLjAwMSA2Ny45MjMtMTkuOTgyIDExLjc5OC4wMDcgMjMuNTk2LjA4NCAzNS4zMjUgLjQ5OSAxNi41MzIuNTczIDMyLMy4xMTggNDYuNzggNy4zMzcgMjMuNzY1IDYuOTU4IDQ1LjU5MSAxOC4wNjggNjQuMjMgMzMuMTUzIDE0LjI3NSAxMS43MjQgMjUuMzggMjUuNzE2IDMyLjY2NyA0MS42NTkgMy43NjkgOC41NDIgNi4wODggMTcuNTI1IDcuMzA5IDI2LjY2MS43MTQgMi41My4xNjUgNS4zODUtLjM2NSA4LjE3Ni0uNzc5IDQuMDI0LTEuNTk3IDguMDYyLTIuNDI5IDEyLjAxMi0zLjQ0MiA0Ljg2Mi02LjE3MSA5LjIyMy03LjUxOCAxNC4xMzYtLjc0OCAyLjU0Mi0xLjQ1NyA1LjEwMi0yLjE0NyA3LjY2NnoiLz48L3N2Zz4="/>
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3Zy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDBDMTE0Ljg1NyAwIDAgMTE0Ljg1NyAwIDI1NnMxMTQuODU3IDI1NiAyNTYgMjU2IDI1Ni0xMTQuODU3IDI1Ni0yNTZTNDExLjE0MyAwIDI1NiAweiIvPjxwYXRoIGZpbGw9IiNGRjY2MDAiIGQ9Ik0zMzcuNzUgMjg2Ljg3NWMtLjUxMiAxLjAzMi0xLjQxNyAyLjMyMy0yLjQ1MiAzLjI0NS0xLjIxMiAxLjExMS0yLjc0NiAyLjEyNi00LjI5NSAzLjA0OC0xNC40MDkgOC4xOTQtMzAuNzk3IDE0LjA3Ni00OC4wNjggMTcuMzM0LTUuNTI5IDMuNjktMTEuNjA5IDYuMTA0LTE4LjAxNyA3Ljc4NS0uMTA5LjIyNi0uMjIzLjQ0NS0uMzQxLjY1OC02LjU5IDEuMDQxLTEyLjQxIDIuMzcyLTE3LjUyOSAzLjg4Ni03Ljk2MyAyLjMyMi0xNi41NjEgMy42NDYtMjUuNDczIDMuNjg0LTIuMTg3LjAwOS00LjM4Ni4wMTItNi41NjguMDEyLTI2LjcwMSAwLTUwLjc3MS02Ljg1OC03My4yMTktMTkuNDUtMTkuMDYzLTEwLjc0OS0zNC4yMzMtMjUuMDY0LTQ1LjU0Ni00Mi4zNjQtMTEuOTAxLTE3LjUyNC0xNy44OTYtMzcuMTA4LTE3LjkzNy01Ny4xMy0uMDIyLTExLjM3NSAxLjgxNS0yMi42NzMgNS4zNjktMzMuNDg2IDIuNjQ3LTcuOTU2IDUuOTQtMTUuNjggMTAuMDk2LTIyLjk0MiAxMi4zNC0yMS4yNDMgMzAuNDUzLTM4LjA1NCA1MC45Ni01MC42MDEgMjAuOTY4LTEzLjMzMSA0My45MzgtMjAuMDAxIDY3LjkyMy0xOS45ODIgMTEuNzk4LjAwNyAyMy41OTYuMDg0IDM1LjMyNSAuNDk5IDE2LjUzMi41NzMgMzIuMSAzLjExOCA0Ni43OCA3LjMzNyAyMy43NjUgNi45NTggNDUuNTkxIDE4LjA2OCA2NC4yMyAzMy4xNTMgMTQuMjc1IDExLjcyNCAyNS4zOCAyNS43MTYgMzIuNjY3IDQxLjY1OSAzLjc2OSA4LjU0MiA2LjA4OCAxNy41MjUgNy4zMDkgMjYuNjYxLjcxNCAyLjUzLjE2NSA1LjM4NS0uMzY1IDguMTc2LS43NzkgNC4wMjQtMS41OTcgOC4wNjItMi40MjkgMTIuMDEyLTMuNDQyIDQuODYyLTYuMTcxIDkuMjIzLTcuNTE4IDE0LjEzNi0uNzQ4IDIuNTQyLTEuNDU3IDUuMTAyLTIuMTQ3IDcuNjY1eiIvPjwvc3ZnPg=="/>
   
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" alt="Open Source Contributor"/> 
   
