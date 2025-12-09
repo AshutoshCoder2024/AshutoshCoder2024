@@ -2,7 +2,7 @@
   <img src="http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/> 
 </p> 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
 </p>
 
 # ✨ About Me
@@ -21,6 +21,26 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap&perline=12" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" />
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,linux,vscode&perline=12" />
+</p>
+
+---
+
+## 🚀 Projects (MERN & Full-Stack)
+
+* ### [Project Name 1] - [Brief one-sentence description of the project]
+    > **Built With:** React, Node.js, Express, MongoDB, Redux.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+* ### [Project Name 2] - [Brief one-sentence description of the project]
+    > **Built With:** Next.js, FastAPI, MySQL, Tailwind CSS.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+* ### [Project Name 3] - [Brief one-sentence description of the project]
+    > **Built With:** Python, C++, Docker.
+    > [Live Demo Link (Optional)] | **[View Source Code]**
+
+<p align="center">
+  <a href="[Link to your main projects repository or portfolio]">
+    <img src="https://img.shields.io/badge/More%20Projects%20%E2%86%92-blue?style=for-the-badge" alt="More Projects Badge"/>
+  </a>
 </p>
 
 ---
