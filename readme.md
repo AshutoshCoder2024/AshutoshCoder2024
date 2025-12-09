@@ -28,18 +28,18 @@
 ## 📈 GitHub Stats
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
 </p>
 
 ### 🔥 Streak & Activity
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200" alt="Ashutosh's GitHub Streak"/> 
+  <img src="https://streak-stats.demolab.com?user=Ashutoshcoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200" alt="Ashutosh's GitHub Streak"/> 
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=dark&hide_border=true" alt="Ashutosh's Activity Graph"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutoshcoder2024&theme=dark&hide_border=true" alt="Ashutosh's Activity Graph"/> 
 </p>
 
 <p align="center"> 
