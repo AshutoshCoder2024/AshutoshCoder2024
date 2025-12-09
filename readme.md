@@ -1,105 +1,37 @@
-<!-- Animated Intro -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ashutosh+Kumar+Sahu;🚀+MERN+Stack+Developer;💡+Problem+Solver+%7C+Tech+Enthusiast" 
-    alt="Typing SVG" 
-  />
-</p>
+🌌 Ashutosh Kumar Sahu
+<p align="center"> <img src="https://i.imgur.com/ymvPi7o.gif" width="100%" style="border-radius: 12px;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full-Stack+Engineer;Tech+Enthusiast;Open+Source+Contributor;Problem+Solver" /> </p>
+🎯 About Me
 
+💻 Full-Stack MERN Developer
 
----
+🚀 Love building clean, scalable & modern web applications
 
-## 👨‍💻 About Me
-- 🚀 MERN Stack Developer passionate about building full-stack web apps**
-- 💡 Skilled in React, Node.js, Express, MongoDB, and C++**
-- 🌱 🌱 Currently improving DSA**
-- 🤝 Love collaborating on open-source and team projects**
-- ⚡ Fun fact: I enjoy solving coding problems & turning ideas into reality**
- 
+🧠 Currently improving DSA + System Design
 
----
+🤝 Open-source contributor & team player
 
-## 🌐 Connect with Me
-<p align="center gap-10">
-  <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ashutosh_sahu_00" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/ashutoshsahu9601" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+⚡ Always learning, always creating
 
----
-## 🛠️ Tech Stack
-
-
-<table align="center">
-  <tr>
-    <!-- Frontend -->
-    <td align="center">
-      <b>Frontend</b><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&perline=6" />
-    </td>
-    <td align="center">
-      <b>Backend</b><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
-    </td>
-  </tr>
-
-  <tr><td colspan="2">&nbsp;</td></tr> <!-- spacing -->
-
-  <tr>
-    <!-- Databases -->
-    <td align="center">
-      <b>Databases</b><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=6" />
-    </td>
-    <td align="center">
-      <b>Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp&perline=6" />
-    </td>
-  </tr>
-
-  <tr><td colspan="2">&nbsp;</td></tr> <!-- spacing -->
-
-  <tr>
-    <!-- Tools & DevOps -->
-    <td align="center" colspan="2">
-      <b>Tools & DevOps</b><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws&perlin
-
-
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=radical&hide_border=true&ring=00F7FF&fire=FF2D55&currStreakLabel=00F7FF" height="200" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=react-dark&hide_border=true" alt="contribution graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&label=Profile+Views&color=blue&style=flat" alt="views" /> 
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/MERN-Stack-blueviolet?style=flat" />
-</p>
+🧰 Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </p>
+Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,python" /> </p>
+Tools & DevOps
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode" /> </p>
+📈 GitHub Stats (Minimal & Clean)
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=transparent&hide_border=true&text_color=00F7FF&icon_color=00F7FF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=transparent&hide_border=true&text_color=00F7FF" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF3F3F&ring=00F7FF&currStreakLabel=00F7FF" height="200"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+🌟 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=react-dark&hide_border=true" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> <a href="https://instagram.com/ashutosh_sahu_00"> <img src="https://skillicons.dev/icons?i=instagram" height="50"/> </a> <a href="https://leetcode.com/ashutoshsahu9601"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
+🏆 Profile Badges
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&label=Profile+Views&color=blue&style=flat-square" /> <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=flat-square" /> <img src="https://img.shields.io/badge/MERN%20Developer-Full%20Stack-orange?style=flat-square" /> </p>
