@@ -7,17 +7,12 @@
 🔹 Strong interest in AI, automation & open-source
 🔹 Believe in learning by building
 
-⚡ Tech Stack
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> </p>
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </p>
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,python" /> </p>
-🔧 Tools & DevOps
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode" /> </p>
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,firebase,c,cpp,python,git,github,docker,aws,postman,linux,vscode&perline=12" />
+</p>
+
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🔥 Streak Stats
