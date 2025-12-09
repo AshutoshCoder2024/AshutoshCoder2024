@@ -1,8 +1,5 @@
 <p align="center"> 
-  <img src="
-
-http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0
-" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/> 
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/> 
 </p> 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
@@ -28,7 +25,7 @@ http://googleusercontent.com/image_collection/image_retrieval/242302258880139194
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Dark Aesthetic)
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
@@ -49,6 +46,7 @@ http://googleusercontent.com/image_collection/image_retrieval/242302258880139194
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
 </p>
+
 ---
 
 ## 🌐 Connect With Me
