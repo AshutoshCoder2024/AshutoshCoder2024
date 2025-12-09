@@ -25,17 +25,7 @@
 
 ---
 
-## 🚀 Projects (MERN & Full-Stack)
 
-* ### [Project Name 1] - [Brief one-sentence description of the project]
-    > **Built With:** React, Node.js, Express, MongoDB, Redux.
-    > [Live Demo Link (Optional)] | **[View Source Code]**
-* ### [Project Name 2] - [Brief one-sentence description of the project]
-    > **Built With:** Next.js, FastAPI, MySQL, Tailwind CSS.
-    > [Live Demo Link (Optional)] | **[View Source Code]**
-* ### [Project Name 3] - [Brief one-sentence description of the project]
-    > **Built With:** Python, C++, Docker.
-    > [Live Demo Link (Optional)] | **[View Source Code]**
 
 <p align="center">
   <a href="[Link to your main projects repository or portfolio]">
@@ -59,9 +49,7 @@
   <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=dark&hide_border=true&fire=00E5FF&ring=FF4B4B" height="200" alt="Ashutosh's GitHub Streak"/> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=dark&hide_border=true" alt="Ashutosh's Activity Graph"/> 
-</p>
+
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
