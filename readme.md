@@ -31,14 +31,15 @@ http://googleusercontent.com/image_collection/image_retrieval/242302258880139194
 ## 📈 GitHub Stats
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" alt="Ashutosh's GitHub Stats"/> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
 </p>
 
 ### 🔥 Streak & Activity
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200" alt="Ashutosh's GitHub Streak"/> 
+  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=dark&hide_border=true&fire=00E5FF&ring=FF4B4B" height="200" alt="Ashutosh's GitHub Streak"/> 
 </p>
 
 <p align="center"> 
@@ -48,7 +49,6 @@ http://googleusercontent.com/image_collection/image_retrieval/242302258880139194
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
 </p>
-
 ---
 
 ## 🌐 Connect With Me
