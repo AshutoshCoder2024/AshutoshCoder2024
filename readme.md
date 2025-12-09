@@ -1,25 +1,24 @@
-🚀 Ashutosh Kumar Sahu
-<p align="center"> <!-- WORKING ANIMATED BANNER --> <img src="https://i.gifer.com/7VE.gif" width="100%" style="border-radius: 14px;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2300&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&lines=MERN+Stack+Developer;Full+Stack+Engineer;Open+Source+Contributor;Tech+Explorer+%7C+Problem+Solver" /> </p>
-🌟 About Me
+<p align="center"> <img src="https://i.gifer.com/fetch/w300-preview/0f/0f83e0def2e9d7fedbbab85dda3a53cd.gif" width="100%" style="border-radius: 14px;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> </p>
+✨ About Me
 
-✨ MERN Stack Developer passionate about full-stack app building
-🔥 Love crafting modern, fast & scalable applications
-🧠 Learning System Design & DSA
-🤝 Open to open-source, hackathons & team projects
-⚡ Always trying to build something cool & useful
+🔹 MERN Stack Developer
+🔹 Love creating modern, scalable, fast applications
+🔹 Currently improving DSA + System Design
+🔹 Strong interest in AI, automation & open-source
+🔹 Believe in learning by building
 
-🛠️ Tech Stack
+⚡ Tech Stack
 🎨 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap" /> </p>
 ⚙️ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> </p>
-🗄️ Database
+🗄️ Databases
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </p>
 💻 Languages
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,python" /> </p>
 🔧 Tools & DevOps
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode" /> </p>
-📊 GitHub Stats (Premium Look)
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode" /> </p>
+📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🔥 Streak Stats
 <p align="center"> <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200"/> </p>
