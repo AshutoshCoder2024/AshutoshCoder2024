@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 GitHub Stats (Dark Aesthetic)
+## 📈 GitHub Stats 
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
