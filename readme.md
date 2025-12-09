@@ -1,5 +1,5 @@
-<p align="center"> 
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/> 
+<!-- <p align="center"> 
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/>  -->
 </p> 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
