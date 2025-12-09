@@ -1,5 +1,8 @@
 <p align="center"> 
-  <img src="https://i.gifer.com/fetch/w300-preview/0f/0f83e0def2e9d7fedbbab85dda3a53cd.gif" width="100%" style="border-radius: 14px;" /> 
+  <img src="
+
+http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0
+" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/> 
 </p> 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
@@ -28,23 +31,24 @@
 ## 📈 GitHub Stats
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshutoshCoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshCoder2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" alt="Ashutosh's GitHub Stats"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
 </p>
 
 ### 🔥 Streak & Activity
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=AshutoshCoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200" alt="Ashutosh's GitHub Streak"/> 
+  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=tokyonight&hide_border=true&fire=FF4B4B&ring=00F7FF" height="200" alt="Ashutosh's GitHub Streak"/> 
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshutoshCoder2024&theme=dark&hide_border=true" alt="Ashutosh's Activity Graph"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshcoder2024&theme=dark&hide_border=true" alt="Ashutosh's Activity Graph"/> 
 </p>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
 </p>
+
 ---
 
 ## 🌐 Connect With Me
