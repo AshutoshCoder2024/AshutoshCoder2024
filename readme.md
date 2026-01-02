@@ -1,21 +1,19 @@
-<!-- <p align="center"> 
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/2423022588801391942_0" width="100%" style="border-radius: 14px;" alt="Aesthetic Coding Background"/>  -->
-</p> 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+Cool+Things+With+Code" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Web+Developer+%7C+Open+Source+Contributor;Tech+Enthusiast+%7C+Problem+Solver;Building+Scalable+Products+With+Code" />
 </p>
-
-# ✨ About Me
-
-* 🔹 **MERN Stack Developer** with a focus on building high-quality applications.
-* 🔹 Love creating **modern, scalable, fast applications**.
-* 🔹 Currently improving **DSA + System Design** skills.
-* 🔹 Strong interest in **AI, automation** & **open-source**.
-* 🔹 Believe in learning by **building practical projects**.
 
 ---
 
-## ⚡ Tech Stack
+## 👋 Hi, I’m Ashutosh Sahu
+
+🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
+💡 I enjoy turning ideas into real products through clean code and modern technologies.  
+📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
+🤖 Exploring **AI, automation**, and contributing to **open-source projects**.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap&perline=12" />
@@ -25,71 +23,62 @@
 
 ---
 
+## 🚀 What I Do
 
+- Build **end-to-end web applications** using MERN stack  
+- Design **REST APIs & backend systems**
+- Focus on **performance, scalability & clean architecture**
+- Learn by **shipping real projects**, not just tutorials
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="[Link to your main projects repository or portfolio]">
-    <img src="https://img.shields.io/badge/More%20Projects%20%E2%86%92-blue?style=for-the-badge" alt="More Projects Badge"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=dark&hide_border=true&fire=00E5FF" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="[Your Portfolio URL]">
+    <img src="https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/ashutosh_sahu_00">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://leetcode.com/ashutoshsahu9601">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats 
+## 🏆 Highlights
 
-<p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats"/> 
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Ashutosh's Top Languages"/> 
-</p>
-
-### 🔥 Streak & Activity
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=dark&hide_border=true&fire=00E5FF&ring=FF4B4B" height="200" alt="Ashutosh's GitHub Streak"/> 
-</p>
-
-
-
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> 
-</p>
----
-
-## 🌐 Connect With Me (Enhanced)
-
-<p align="center"> 
-  <a href="[Your Portfolio Website URL]"> 
-    <img src="https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logo=About.me&logoColor=white" height="40" alt="Portfolio"/> 
-  </a>
-  <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331"> 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> 
-  </a> 
-  <a href="https://instagram.com/ashutosh_sahu_00"> 
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/> 
-  </a> 
-  <a href="https://leetcode.com/ashutoshsahu9601"> 
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" alt="LeetCode"/> 
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏆 Profile Badges (Enhanced)
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/> 
-  
-  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3Zy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjU2IDBDMTE0Ljg1NyAwIDAgMTE0Ljg1NyAwIDI1NnMxMTQuODU3IDI1NiAyNTYgMjU2IDI1Ni0xMTQuODU3IDI1Ni0yNTZTNDExLjE0MyAwIDI1NiAweiIvPjxwYXRoIGZpbGw9IiNGRjY2MDAiIGQ9Ik0zMzcuNzUgMjg2Ljg3NWMtLjUxMiAxLjAzMi0xLjQxNyAyLjMyMy0yLjQ1MiAzLjI0NS0xLjIxMiAxLjExMS0yLjc0NiAyLjEyNi00LjI5NSAzLjA0OC0xNC40MDkgOC4xOTQtMzAuNzk3IDE0LjA3Ni00OC4wNjggMTcuMzM0LTUuNTI5IDMuNjktMTEuNjA5IDYuMTA0LTE4LjAxNyA3Ljc4NS0uMTA5LjIyNi0uMjIzLjQ0NS0uMzQxLjY1OC02LjU5IDEuMDQxLTEyLjQxIDIuMzcyLTE3LjUyOSAzLjg4Ni03Ljk2MyAyLjMyMi0xNi41NjEgMy42NDYtMjUuNDczIDMuNjg0LTIuMTg3LjAwOS00LjM4Ni4wMTItNi41NjguMDEyLTI2LjcwMSAwLTUwLjc3MS02Ljg1OC03My4yMTktMTkuNDUtMTkuMDYzLTEwLjc0OS0zNC4yMzMtMjUuMDY0LTQ1LjU0Ni00Mi4zNjQtMTEuOTAxLTE3LjUyNC0xNy44OTYtMzcuMTA4LTE3LjkzNy01Ny4xMy0uMDIyLTExLjM3NSAxLjgxNS0yMi42NzMgNS4zNjktMzMuNDg2IDIuNjQ3LTcuOTU2IDUuOTQtMTUuNjggMTAuMDk2LTIyLjk0MiAxMi4zNC0yMS4yNDMgMzAuNDUzLTM4LjA1NCA1MC45Ni01MC42MDEgMjAuOTY4LTEzLjMzMSA0My45MzgtMjAuMDAxIDY3LjkyMy0xOS45ODIgMTEuNzk4LjAwNyAyMy41OTYuMDg0IDM1LjMyNSAuNDk5IDE2LjUzMi41NzMgMzIuMSAzLjExOCA0Ni43OCA3LjMzNyAyMy43NjUgNi45NTggNDUuNTkxIDE4LjA2OCA2NC4yMyAzMy4xNTMgMTQuMjc1IDExLjcyNCAyNS4zOCAyNS43MTYgMzIuNjY3IDQxLjY1OSAzLjc2OSA4LjU0MiA2LjA4OCAxNy41MjUgNy4zMDkgMjYuNjYxLjcxNCAyLjUzLjE2NSA1LjM4NS0uMzY1IDguMTc2LS43NzkgNC4wMjQtMS41OTcgOC4wNjItMi40MjkgMTIuMDEyLTMuNDQyIDQuODYyLTYuMTcxIDkuMjIzLTcuNTE4IDE0LjEzNi0uNzQ4IDIuNTQyLTEuNDU3IDUuMTAyLTIuMTQ3IDcuNjY1eiIvPjwvc3ZnPg=="/>
-  
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" alt="Open Source Contributor"/> 
-  
-  <img src="https://img.shields.io/badge/MERN%20Developer-Full%20Stack-orange?style=for-the-badge" alt="MERN Developer"/> 
-  
-  <img src="https://wakatime.com/badge/user/ashutoshcoder2024/total.svg?style=for-the-badge&theme=dark" alt="WakaTime Coding Time"/>
-
-</p>
-
-<br>
-<h3 align="center">Thanks for stopping by! Let's build something great.</h3>
+<h3 align="center">💬 Thanks for visiting! Let’s build something impactful together.</h3>
