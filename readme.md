@@ -39,7 +39,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutoshcoder2024&theme=dark&hide_border=true&fire=00E5FF" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=AshutoshCoder2024&theme=dark&hide_border=true&fire=00E5FF" height="200"/>
 </p>
 
 <p align="center">
