@@ -33,7 +33,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshcoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshCoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 ### 🔥 Contribution Streak
@@ -51,13 +51,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[Your Portfolio URL]">
-    <img src="https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+  
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/ashutosh_sahu_00">
+  <a href="https://instagram.com/ashutosh_sahu_18">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   <a href="https://leetcode.com/ashutoshsahu9601">
@@ -76,6 +74,4 @@
   <img src="https://img.shields.io/badge/MERN-Full%20Stack-orange?style=for-the-badge" />
 </p>
 
----
 
-<h3 align="center">💬 Thanks for visiting! Let’s build something impactful together.</h3>
