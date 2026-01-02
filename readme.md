@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full+Stack+MERN+Developer;Web+Developer+%7C+Open+Source+Contributor;Tech+Enthusiast+%7C+Problem+Solver;Building+Scalable+Products+With+Code" />
-</p>
 
----
+
 
 ## 👋 Hi, I’m Ashutosh Sahu
 
