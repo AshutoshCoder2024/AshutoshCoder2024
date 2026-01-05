@@ -19,18 +19,27 @@
 
 ## 🚀 What I Do
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 - Build **end-to-end web applications** using MERN stack  
 - Design **REST APIs & backend systems**  
 - Focus on **performance, scalability & clean architecture**  
 - Learn by **shipping real projects**, not just tutorials  
 
-<p align="center">
-  <img 
-    src="https://camo.githubusercontent.com/3ec59f66c91262f29dff18cdf2d717e785a6d33848ea1bb0cefdce36af6eab36/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966" 
-    width="300" 
-    alt="Coding Animation"
-  />
-</p>
+    </td>
+    <td width="40%" align="center">
+
+<img 
+  src="https://camo.githubusercontent.com/3ec59f66c91262f29dff18cdf2d717e785a6d33848ea1bb0cefdce36af6eab36/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966" 
+  width="280" 
+  alt="Coding Animation"
+/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
