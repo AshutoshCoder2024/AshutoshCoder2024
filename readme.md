@@ -1,6 +1,3 @@
-
-
-
 ## 👋 Hi, I’m Ashutosh Sahu
 
 🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
@@ -13,9 +10,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=12" />
 </p>
 
 ---
@@ -23,9 +20,17 @@
 ## 🚀 What I Do
 
 - Build **end-to-end web applications** using MERN stack  
-- Design **REST APIs & backend systems**
-- Focus on **performance, scalability & clean architecture**
-- Learn by **shipping real projects**, not just tutorials
+- Design **REST APIs & backend systems**  
+- Focus on **performance, scalability & clean architecture**  
+- Learn by **shipping real projects**, not just tutorials  
+
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/3ec59f66c91262f29dff18cdf2d717e785a6d33848ea1bb0cefdce36af6eab36/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966" 
+    width="300" 
+    alt="Coding Animation"
+  />
+</p>
 
 ---
 
@@ -51,7 +56,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -73,5 +77,3 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN-Full%20Stack-orange?style=for-the-badge" />
 </p>
-
-
