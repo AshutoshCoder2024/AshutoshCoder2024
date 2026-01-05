@@ -6,11 +6,6 @@
 🤖 Exploring **AI, automation**, and contributing to **open-source projects**.
 
 ---
-
-
-
----
-
 ## 🚀 What I Do
 
 <table>
