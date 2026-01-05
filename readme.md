@@ -68,9 +68,7 @@
   <a href="https://instagram.com/ashutosh_sahu_18">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://leetcode.com/ashutoshsahu9601">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+ 
 </p>
 
 ---
