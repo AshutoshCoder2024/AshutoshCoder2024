@@ -73,11 +73,4 @@
 
 ---
 
-## 🏆 Highlights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshcoder2024&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-orange?style=for-the-badge" />
-</p>
