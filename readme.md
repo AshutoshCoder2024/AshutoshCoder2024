@@ -5,9 +5,7 @@
 🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
 💡 I enjoy turning ideas into real products through clean code and modern technologies.  
 📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
-🤖 Exploring **AI, automation**, and contributing to **open-source projects**.
-
----
+🤖 Exploring **AI, automation**, and contributing to **open-source projects**
 ## 🚀 What I Do
 
 <table>
@@ -42,12 +40,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=12" />
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcoder2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshCoder2024&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
+
 
 ### 🔥 Contribution Streak
 
