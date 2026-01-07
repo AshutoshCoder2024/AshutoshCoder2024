@@ -1,6 +1,5 @@
 
 ## 👋 Hi, I’m Ashutosh Sahu
----
 
 ![githubgif](https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0)
 
