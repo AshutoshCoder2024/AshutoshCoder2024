@@ -1,7 +1,8 @@
-
+## 👋 Hi, I’m Ashutosh Sahu
+--
 
 ![githubgif](https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0)
-## 👋 Hi, I’m Ashutosh Sahu
+
 🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
 💡 I enjoy turning ideas into real products through clean code and modern technologies.  
 📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
