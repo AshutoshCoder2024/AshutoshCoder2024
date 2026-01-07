@@ -1,3 +1,6 @@
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/8f6959d4-b47c-40ad-bb36-956c6045ddb7" />
+
+
 ## 👋 Hi, I’m Ashutosh Sahu
 
 🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
