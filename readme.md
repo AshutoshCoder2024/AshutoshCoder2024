@@ -44,17 +44,6 @@
 
 
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshutoshCoder2024&theme=dark&hide_border=true&fire=00E5FF" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
