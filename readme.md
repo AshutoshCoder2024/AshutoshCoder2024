@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Ashutosh Sahu
+## 👋 Hi, I’m Ashutosh 
 
 ![githubgif](https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0)
 
@@ -15,8 +15,7 @@
   <tr>
     <td width="55%" valign="top">
 
-- 🚀 Build **end-to-end web applications** using the **MERN stack**
-- 🧩 Design **REST APIs & scalable backend systems**
+- 🚀 Build **end-to-end web applications** 
 - ⚡ Focus on **performance, scalability & clean architecture**
 - 🛠️ Learn by **shipping real-world projects**, not just tutorials
 
