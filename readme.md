@@ -35,9 +35,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" /><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=15" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=15" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=15" />
 </p>
 
 ---
