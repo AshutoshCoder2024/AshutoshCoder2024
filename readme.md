@@ -7,21 +7,17 @@
 💡 I enjoy turning ideas into real products through clean code and modern technologies.  
 📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
 🤖 Exploring **AI, automation**, and contributing to **open-source projects**
-
-
 ## 🚀 What I Do
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="55%" valign="middle">
 
-<br/>
-
-- 🚀 Build **end-to-end web applications**  
-- ⚡ Focus on **performance, scalability & clean architecture**  
-- 🛠️ Learn by **shipping real-world projects**, not just tutorials  
-
-<br/>
+      <ul>
+        <li>🚀 Build <strong>end-to-end web applications</strong></li>
+        <li>⚡ Focus on <strong>performance, scalability & clean architecture</strong></li>
+        <li>🛠️ Learn by <strong>shipping real-world projects</strong>, not just tutorials</li>
+      </ul>
 
     </td>
     <td width="45%" align="center" valign="middle">
