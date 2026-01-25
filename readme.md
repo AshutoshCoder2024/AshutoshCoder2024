@@ -1,21 +1,13 @@
-## 👋 Hi, I’m Ashutosh  
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0" 
-    alt="GitHub Animation"
-    width="420"
-  />
-</p>
+## 👋 Hi, I’m Ashutosh 
 
-<p align="center">
-  🚀 <strong>Full Stack MERN Developer</strong> passionate about building scalable, user-centric web applications.<br/>
-  💡 I enjoy turning ideas into real products through clean code and modern technologies.<br/>
-  📈 Currently strengthening <strong>DSA, System Design</strong>, and real-world backend architectures.<br/>
-  🤖 Exploring <strong>AI, automation</strong>, and contributing to <strong>open-source projects</strong>
-</p>
+![githubgif](https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0)
 
----
+🚀 **Full Stack MERN Developer** passionate about building scalable, user-centric web applications.  
+💡 I enjoy turning ideas into real products through clean code and modern technologies.  
+📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
+🤖 Exploring **AI, automation**, and contributing to **open-source projects**
+
 
 ## 🚀 What I Do
 
@@ -23,9 +15,9 @@
   <tr>
     <td width="55%" valign="top">
 
-- 🚀 Build **end-to-end web applications**  
-- ⚡ Focus on **performance, scalability & clean architecture**  
-- 🛠️ Learn by **shipping real-world projects**, not just tutorials  
+- 🚀 Build **end-to-end web applications** 
+- ⚡ Focus on **performance, scalability & clean architecture**
+- 🛠️ Learn by **shipping real-world projects**, not just tutorials
 
     </td>
     <td width="45%" align="center">
@@ -38,17 +30,19 @@
   </tr>
 </table>
 
----
+--
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" />
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=12" />
 </p>
 
----
+
+
+
 
 ## 🌐 Connect With Me
 
