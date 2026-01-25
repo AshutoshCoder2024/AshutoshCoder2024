@@ -13,7 +13,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" >
 
 - 🚀 Build **end-to-end web applications** 
 - ⚡ Focus on **performance, scalability & clean architecture**
