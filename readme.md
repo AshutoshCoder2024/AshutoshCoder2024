@@ -13,14 +13,18 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="55%" >
+    <td width="55%" valign="middle">
 
-- 🚀 Build **end-to-end web applications** 
-- ⚡ Focus on **performance, scalability & clean architecture**
-- 🛠️ Learn by **shipping real-world projects**, not just tutorials
+<br/>
+
+- 🚀 Build **end-to-end web applications**  
+- ⚡ Focus on **performance, scalability & clean architecture**  
+- 🛠️ Learn by **shipping real-world projects**, not just tutorials  
+
+<br/>
 
     </td>
-    <td width="45%">
+    <td width="45%" align="center" valign="middle">
       <img 
         src="https://camo.githubusercontent.com/3ec59f66c91262f29dff18cdf2d717e785a6d33848ea1bb0cefdce36af6eab36/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966" 
         width="260"
@@ -30,7 +34,6 @@
   </tr>
 </table>
 
---
 
 ## 🛠️ Tech Stack
 
