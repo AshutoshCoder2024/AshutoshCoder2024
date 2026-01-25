@@ -1,5 +1,4 @@
-
-## 👋 Hi, I’m Ashutosh 
+## 👋 Hi, I’m Ashutosh  
 
 ![githubgif](https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0)
 
@@ -7,6 +6,9 @@
 💡 I enjoy turning ideas into real products through clean code and modern technologies.  
 📈 Currently strengthening **DSA, System Design**, and real-world backend architectures.  
 🤖 Exploring **AI, automation**, and contributing to **open-source projects**
+
+---
+
 ## 🚀 What I Do
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -30,18 +32,17 @@
   </tr>
 </table>
 
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=12" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=12" /><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode&perline=12" />
 </p>
 
-
-
-
+---
 
 ## 🌐 Connect With Me
 
