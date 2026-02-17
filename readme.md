@@ -25,8 +25,6 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -48,10 +46,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
+  <!-- Portfolio Logo -->
   <a href="https://ashutoshdev.in" target="_blank">
     <img src="https://skillicons.dev/icons?i=web" height="40" />
   </a>
 </p>
+
 
 
 ---
