@@ -17,11 +17,11 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase" height="35" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,vscode" height="35" />
 </p>
 
 ---
