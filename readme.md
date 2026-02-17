@@ -56,9 +56,11 @@
   <!-- Portfolio (Different Icon - Briefcase) -->
   <!-- Portfolio -->
 <!-- Portfolio -->
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/100/000000/briefcase.png" height="40"/>
+<!-- Portfolio -->
+<a href="https://ashutoshdev.in" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/briefcase.png" height="40"/>
 </a>
+
 
 
 
