@@ -27,7 +27,7 @@
 ---
 <p align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-sahu-5a5713331" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
@@ -46,12 +46,9 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Portfolio Logo -->
- <a href="ashutoshdev.in" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" />
+  </a>
 </p>
 
 
