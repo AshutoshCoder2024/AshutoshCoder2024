@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashutosh Sahu  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0" width="250" />
+  <img src="https://github.com/user-attachments/assets/a4f14813-9c6c-45fd-af78-33c519874ca0" width="100%" />
 </p>
 
 ## 🚀 About Me  
