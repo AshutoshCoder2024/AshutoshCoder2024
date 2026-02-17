@@ -54,9 +54,11 @@
   &nbsp;&nbsp;&nbsp;
 
   <!-- Portfolio (Different Icon - Briefcase) -->
-  <a href="https://ashutoshdev.in" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" height="40" />
-  </a>
+  <!-- Portfolio -->
+<a href="https://ashutoshdev.in" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" />
+</a>
+
 
 </p>
 
