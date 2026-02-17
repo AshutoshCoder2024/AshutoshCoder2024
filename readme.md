@@ -47,9 +47,10 @@
   &nbsp;&nbsp;&nbsp;
 
   <!-- Portfolio Logo -->
-  <a href="https://ashutoshdev.in" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+ <a href="ashutoshdev.in" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
 
 </p>
 
