@@ -12,7 +12,7 @@
 - 🧠 Strengthening DSA, System Design & backend architecture  
 - 🤖 Exploring AI, automation & modern technologies  
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,docker,aws,postman,firebase,vscode," height="37" />
 </p>
 
----
+
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -69,6 +69,6 @@
 
 
 
----
+
 
 <p align="center
