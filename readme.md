@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,JavaScript,git,github,docker,aws,postman,firebase,vscode,supabase" height="42" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,docker,aws,postman,firebase,vscode,supabase" height="42" />
 </p>
 
 
