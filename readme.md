@@ -47,11 +47,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/AshutoshCoder2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="37" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  
 
   <!-- Portfolio (Different Icon - Briefcase) -->
   <!-- Portfolio -->
